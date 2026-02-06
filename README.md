@@ -1,5 +1,7 @@
 # WiGLE CSV to Excel Template Converter
 
+![NetPlot](docs/screenshot.png)
+
 Standalone Windows program that converts a WiGLE CSV export into a CSV file ready to paste into my Wigle Analysis Excel template. It adds **vendor names** by looking up MAC addresses (OUI) against the [hdm/mac-tracker](https://github.com/hdm/mac-tracker/tree/main/data) IEEE OUI database.
 
 ## Requirements
